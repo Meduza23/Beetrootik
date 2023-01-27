@@ -1,2 +1,0 @@
-# Beetrootik
-Homeworks QA manual
